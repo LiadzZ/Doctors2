@@ -21,7 +21,12 @@ lalalalalal
 bla blahjlfjlcyigjl,cyh
 >>>>>>> 5af667a75ffddddea430799797c80bcd5e181657
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ecdbc9dd497f6e7e4f311b071b82a2ccb5cbbce9
 =======
 gil sharom 
 >>>>>>> 7563a46a13f902a20554a0a333f8313944963f06
+=======
+gil sharom 
+elisha salmonela
+>>>>>>> 28d9e1e1ae860df77bd695a4409572a6d1141510
