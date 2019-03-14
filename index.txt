@@ -1,4 +1,14 @@
 Hello how are you?
 :)
+<<<<<<< HEAD
 blala
 vkjvdfkj
+=======
+
+
+<<<<<<< HEAD
+bla bla
+>>>>>>> 551e991c932926bbccd47191b71a20222d70c212
+=======
+bla blahjlfjlcyigjl,cyh
+>>>>>>> 5af667a75ffddddea430799797c80bcd5e181657
