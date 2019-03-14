@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{FFFC146B-D34A-4967-B034-B68C144B177E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Classes/Encryption.cs">
+    <Files>
+      <File FileName="WebApplication3/Controllers/DoctorController.cs" Line="1" Column="1" />
+      <File FileName="WebApplication3/Controllers/AdminController.cs" Line="29" Column="9" />
+      <File FileName="WebApplication3/Views/Admin/ShowAllUsers.cshtml" Line="1" Column="1" />
+      <File FileName="WebApplication3/Views/Home/ShowHomePage.cshtml" Line="11" Column="6" />
+      <File FileName="WebApplication3/Classes/Encryption.cs" Line="25" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApplication3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
