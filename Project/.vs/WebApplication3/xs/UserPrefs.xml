@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{FFFC146B-D34A-4967-B034-B68C144B177E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Views/Admin/ShowUsers.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Views/Shared/_Layout.cshtml">
     <Files>
       <File FileName="WebApplication3/Controllers/DoctorController.cs" Line="1" Column="1" />
       <File FileName="WebApplication3/Controllers/AdminController.cs" Line="128" Column="32" />
@@ -30,6 +30,7 @@
       <File FileName="WebApplication3/Views/Shared/_LayoutDoctor.cshtml" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Shared/_LayoutAdmin.cshtml" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Admin/ShowUsers.cshtml" Line="1" Column="1" />
+      <File FileName="WebApplication3/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
