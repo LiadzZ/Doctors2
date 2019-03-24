@@ -1,0 +1,33 @@
+ public ActionResult ShowAllUsers()
+        {
+            if (verifyAdmin() == false)
+            {
+                TempData["WarningMessage"] = "Don't go to places you are not allowed.";
+                
+                return RedirectToAction("LogOut", "Home");
+            }
+            UserDAL dalUser = new UserDAL();
+            DoctorDAL dalDoc = new DoctorDAL();
+            VMUsersDoctors vm = new VMUsersDoctors(dalDoc.Doctors.ToList<Doctor>(), dalUser.Users.ToList<User>());
+
+            return View(vm);
+
+        }
+
+
+ public ActionResult MyInfo()
+        {
+            if (verifyAdmin() == false)
+            {
+                TempData["WarningMessage"] = "Don't go to places you are not allowed.";
+                return RedirectToAction("LogOut", "Home");
+            }
+            AdminDAL admDAL = new AdminDAL();
+            var tempID = Session["AdminLoggedIn"].ToString();
+            List<Admin> admins = (from x in admDAL.Admins where x.userName.Equals(tempID) select x).ToList<Admin>();
+            VMAdmin myAdmins = new VMAdmin();
+            myAdmins.Admins = admins;
+            //ViewBag.TempDoc = doc;
+            return View(myAdmins);
+        }
+
