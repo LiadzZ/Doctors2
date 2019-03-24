@@ -1,0 +1,15 @@
+        public ActionResult DeleteUser(string usrID)
+        {
+            if (verifyAdmin() == false)
+            {
+                TempData["WarningMessage"] = "Don't go to places you are not allowed.";
+                return RedirectToAction("LogOut", "Home");
+            }
+            UserDAL usrDAL = new UserDAL();
+            List<User> usr = (from x in usrDAL.Users where x.ID.Equals(usrID) select x).ToList<User>();
+            User usrToDelete = usr[0];
+            usrDAL.Users.Attach(usrToDelete);
+            usrDAL.Users.Remove(usrToDelete);
+            usrDAL.SaveChanges();
+            return RedirectToAction("ShowUsers", "Admin");
+        }
