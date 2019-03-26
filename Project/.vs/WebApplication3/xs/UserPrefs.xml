@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{FFFC146B-D34A-4967-B034-B68C144B177E}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Controllers/DoctorController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Views/Home/ShowHomePage.cshtml">
     <Files>
       <File FileName="WebApplication3/Controllers/DoctorController.cs" Line="7" Column="30" />
       <File FileName="WebApplication3/Controllers/AdminController.cs" Line="219" Column="37" />
       <File FileName="WebApplication3/Views/Admin/ShowAllUsers.cshtml" Line="1" Column="1" />
-      <File FileName="WebApplication3/Views/Home/ShowHomePage.cshtml" Line="1" Column="1" />
+      <File FileName="WebApplication3/Views/Home/ShowHomePage.cshtml" Line="5" Column="6" />
       <File FileName="WebApplication3/Classes/Encryption.cs" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Home/About.cshtml" Line="17" Column="25" />
       <File FileName="WebApplication3/Views/Home/Contact.cshtml" Line="1" Column="1" />
@@ -28,7 +28,7 @@
       <File FileName="WebApplication3/Views/Shared/_LayoutAdmin.cshtml" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Admin/ShowUsers.cshtml" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="WebApplication3/UnitTest/NUnitTestClass.cs" Line="2" Column="17" />
+      <File FileName="WebApplication3/UnitTest/NUnitTestClass.cs" Line="6" Column="5" />
       <File FileName="WebApplication3/UnitTest/EmptyClass.cs" Line="13" Column="5" />
       <File FileName="WebApplication3/Controllers/TestController.cs" Line="14" Column="6" />
     </Files>
