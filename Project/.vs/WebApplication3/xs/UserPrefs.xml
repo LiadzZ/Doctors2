@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{FFFC146B-D34A-4967-B034-B68C144B177E}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/UnitTest/NUnitTestClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication3/Controllers/DoctorController.cs">
     <Files>
-      <File FileName="WebApplication3/Controllers/DoctorController.cs" Line="20" Column="10" />
+      <File FileName="WebApplication3/Controllers/DoctorController.cs" Line="7" Column="30" />
       <File FileName="WebApplication3/Controllers/AdminController.cs" Line="219" Column="37" />
       <File FileName="WebApplication3/Views/Admin/ShowAllUsers.cshtml" Line="1" Column="1" />
       <File FileName="WebApplication3/Views/Home/ShowHomePage.cshtml" Line="1" Column="1" />
