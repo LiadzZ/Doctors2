@@ -35,7 +35,7 @@ namespace WebApplication3.Controllers
                     usrDal.SaveChanges();
                 }
                 catch (Exception)
-                {
+                { 
                     //Failed insertion,already exist  
                     
                     usrDal.Users.Remove(usr);

@@ -15,11 +15,18 @@
 }
 
 <h2>@ViewBag.Title.</h2>
-<h3>Find your own private doctor!</h3>
-
-<p>
-    Our goal is to connect the doctor directly to the client.<br />
-    Allowing express serivce to everyone.<br />
-<p>The website is in building status , much more to come.</p>
+@foreach (var item in ViewBag.terms1)
+{
+    <tr>
+        <td><h3>@item.UserTerms </h3> </td>
         
-</p>
+        
+        </tr>
+}
+    <h3>Find your own private doctor!</h3>
+        <p>
+            Our goal is to connect the doctor directly to the client.<br />
+            Allowing express serivce to everyone.<br />
+        <p>The website is in building status , much more to come.</p>
+
+        </p>

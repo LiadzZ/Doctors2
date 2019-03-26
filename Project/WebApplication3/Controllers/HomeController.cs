@@ -142,8 +142,10 @@ namespace WebApplication3.Controllers
         /// <returns></returns>
         public ActionResult About()
         {
-            PieChartInsert();
-            
+            //PieChartInsert();
+            TermsDAL dalTerm = new TermsDAL();
+            List<UserTerm> terms1 = dalTerm.Terms1.ToList<UserTerm>();
+            ViewBag.terms1 = terms1;
 
             return View();
         }
