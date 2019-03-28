@@ -1,253 +1,254 @@
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/WebApplication3.dll.config
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/WebApplication3.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/WebApplication3.pdb
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csc.exe
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csc.exe.config
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csc.rsp
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csi.exe
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csi.exe.config
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/csi.rsp
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.CSharp.Core.targets
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.Managed.Core.targets
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/Microsoft.VisualBasic.Core.targets
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.AppContext.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Collections.Immutable.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Console.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Diagnostics.StackTrace.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.IO.Compression.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.IO.FileSystem.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.IO.FileSystem.Primitives.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.IO.Pipes.AccessControl.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.IO.Pipes.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Reflection.Metadata.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.AccessControl.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Claims.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Cryptography.Encoding.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Cryptography.Primitives.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Security.Principal.Windows.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Text.Encoding.CodePages.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.ValueTuple.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Xml.ReaderWriter.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Xml.XmlDocument.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Xml.XPath.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/System.Xml.XPath.XDocument.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/vbc.exe
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/vbc.exe.config
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/vbc.rsp
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/VBCSCompiler.exe
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/roslyn/VBCSCompiler.exe.config
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Antlr3.Runtime.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Microsoft.Web.Infrastructure.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Newtonsoft.Json.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Diagnostics.DiagnosticSource.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Helpers.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Mvc.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Optimization.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Razor.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.Deployment.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.Razor.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/WebGrease.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Helpers.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Mvc.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Optimization.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.Razor.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.Deployment.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Web.WebPages.Razor.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Newtonsoft.Json.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Antlr3.Runtime.pdb
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/System.Diagnostics.DiagnosticSource.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/obj/Debug/WebApplication3.csproj.CoreCompileInputs.cache
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/obj/Debug/WebApplication3.csproj.CopyComplete
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/obj/Debug/WebApplication3.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/obj/Debug/WebApplication3.pdb
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/EntityFramework.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/EntityFramework.SqlServer.dll
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/EntityFramework.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/EntityFramework.SqlServer.xml
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/obj/Debug/WebApplication3.csprojAssemblyReference.cache
-C:/Users/YogiBT/Source/Repos/WebApplication3/WebApplication3/bin/WebApplication3.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/WebApplication3.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/WebApplication3.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/WebApplication3.pdb
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csc.exe
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csc.exe.config
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csc.rsp
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csi.exe
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csi.exe.config
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/csi.rsp
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.CSharp.Core.targets
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.Managed.Core.targets
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/Microsoft.VisualBasic.Core.targets
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.AppContext.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Collections.Immutable.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Console.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Diagnostics.StackTrace.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.IO.Compression.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.IO.FileSystem.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.IO.FileSystem.Primitives.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.IO.Pipes.AccessControl.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.IO.Pipes.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Reflection.Metadata.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.AccessControl.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Claims.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Cryptography.Encoding.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Cryptography.Primitives.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Security.Principal.Windows.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Text.Encoding.CodePages.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.ValueTuple.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Xml.ReaderWriter.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Xml.XmlDocument.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Xml.XPath.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/System.Xml.XPath.XDocument.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/vbc.exe
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/vbc.exe.config
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/vbc.rsp
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/VBCSCompiler.exe
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/roslyn/VBCSCompiler.exe.config
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Antlr3.Runtime.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/EntityFramework.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/EntityFramework.SqlServer.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Microsoft.Web.Infrastructure.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Newtonsoft.Json.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Diagnostics.DiagnosticSource.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Helpers.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Mvc.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Optimization.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Razor.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.Deployment.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.Razor.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/WebGrease.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/EntityFramework.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/EntityFramework.SqlServer.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Helpers.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Mvc.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Optimization.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.Razor.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.Deployment.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Web.WebPages.Razor.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Newtonsoft.Json.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Antlr3.Runtime.pdb
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/System.Diagnostics.DiagnosticSource.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/obj/Debug/WebApplication3.csprojAssemblyReference.cache
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/obj/Debug/WebApplication3.csproj.CoreCompileInputs.cache
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/obj/Debug/WebApplication3.csproj.CopyComplete
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/obj/Debug/WebApplication3.dll
-/Users/liadnehemia/Documents/הנדסת תוכנה שנה ג/סמסטר ב/DoctorsProject/WebApplication3-1/WebApplication3/obj/Debug/WebApplication3.pdb
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/WebApplication3.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/WebApplication3.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/WebApplication3.pdb
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csc.exe
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csc.exe.config
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csc.rsp
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csi.exe
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csi.exe.config
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/csi.rsp
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.CSharp.Core.targets
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.Managed.Core.targets
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/Microsoft.VisualBasic.Core.targets
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.AppContext.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Collections.Immutable.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Console.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Diagnostics.StackTrace.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.IO.Compression.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.IO.FileSystem.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.IO.FileSystem.Primitives.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.IO.Pipes.AccessControl.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.IO.Pipes.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Reflection.Metadata.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.AccessControl.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Claims.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Cryptography.Algorithms.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Cryptography.Encoding.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Cryptography.Primitives.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Security.Principal.Windows.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Text.Encoding.CodePages.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.ValueTuple.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Xml.ReaderWriter.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Xml.XmlDocument.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Xml.XPath.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/System.Xml.XPath.XDocument.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/vbc.exe
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/vbc.exe.config
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/vbc.rsp
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/VBCSCompiler.exe
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/roslyn/VBCSCompiler.exe.config
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Antlr3.Runtime.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/EntityFramework.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/EntityFramework.SqlServer.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Microsoft.Web.Infrastructure.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Newtonsoft.Json.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Diagnostics.DiagnosticSource.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Helpers.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Mvc.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Optimization.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Razor.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.Deployment.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.Razor.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/WebGrease.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/EntityFramework.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/EntityFramework.SqlServer.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Helpers.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Mvc.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Optimization.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.Razor.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.Deployment.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Web.WebPages.Razor.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Newtonsoft.Json.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Antlr3.Runtime.pdb
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/System.Diagnostics.DiagnosticSource.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Microsoft.AspNet.TelemetryCorrelation.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/obj/Debug/WebApplication3.csprojAssemblyReference.cache
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/obj/Debug/WebApplication3.csproj.CoreCompileInputs.cache
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/obj/Debug/WebApplication3.csproj.CopyComplete
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/obj/Debug/WebApplication3.dll
-/Users/liadnehemia/Documents/GitHub/Doctors2/Project/WebApplication3/obj/Debug/WebApplication3.pdb
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\YogiBT\Source\Repos\WebApplication3\WebApplication3\bin\WebApplication3.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\WebApplication3.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\meita\OneDrive\שולחן העבודה\מיטל\לימודים\סמי שמעון\שנה ג\סמססטר ב\אבטחת נתונים\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\DocProject\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\DocProject\WebApplication3\WebApplication3\bin\WebApplication3.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\DocProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\DocProject\WebApplication3\WebApplication3\bin\Antlr3.Runtime.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\EntityFramework.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\Microsoft.Web.Infrastructure.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Helpers.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Mvc.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Optimization.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Razor.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\WebGrease.dll
+C:\DocProject\WebApplication3\WebApplication3\bin\EntityFramework.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\EntityFramework.SqlServer.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Helpers.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Mvc.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Optimization.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.Razor.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.Deployment.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Web.WebPages.Razor.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\Antlr3.Runtime.pdb
+C:\DocProject\WebApplication3\WebApplication3\bin\System.Diagnostics.DiagnosticSource.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\DocProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DocProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\DocProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\DocProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\DocProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
