@@ -1,0 +1,7 @@
+        public bool verifyUser()
+        {
+            if (Session["UserLoggedIn"] != null)
+                return true;
+            return false;
+        }
+    
