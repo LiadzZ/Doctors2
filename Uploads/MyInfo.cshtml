@@ -1,34 +1,41 @@
-﻿@model WebApplication3.ModelV.VMAdmin
-
+﻿@model WebApplication3.Models.Doctor
 @{
     ViewBag.Title = "MyInfo";
-    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    Layout = "~/Views/Shared/_LayoutDoctor.cshtml";
 }
-
-<h2>MyInfo</h2>
 @*
-
-    show admin details    
+    show current doctor information.    
 
 *@
+<h2>MyInfo</h2>
+
 <body>
     <head>
-        Welcome Admin:  @Session["AdminLoggedIn"]
+        Welcome Doctor @Session["DoctorLoggedIn"]
     </head>
     <br />
-    AdminInfo:
+    DoctorInfo:
     <br />
     <table class="table">
         <tr>
-            <th> User Name </th>
-            
+            <th> First Name </th>
+            <th> Last Name </th>
+            <th> Age </th>
+            <th> Phone </th>
+            <th> Email </th>
 
         </tr>
-        @foreach (var item in Model.Admins)
+        @foreach (var item in ViewBag.TempDoc)
         {
             <tr>
-                <td>@item.userName  </td>
+                <td>@item.FirstName  </td>
+                <td>@item.LastName </td>
+                <td>@item.Age </td>
+                <td>@item.Phone </td>
+                <td>@item.Email </td>
+                <td>@Html.ActionLink("Edit", "Edit")</td>
             </tr>
+
         }
 
 
@@ -36,4 +43,3 @@
 
     </table>
     <br />
-
