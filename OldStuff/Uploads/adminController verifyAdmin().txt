@@ -1,0 +1,6 @@
+        public bool verifyAdmin()
+        {
+            if (Session["AdminLoggedIn"] != null)
+                return true;
+            return false;
+        }

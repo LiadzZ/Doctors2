@@ -1,0 +1,16 @@
+        public ActionResult ShowUsers()
+        {
+            if (verifyAdmin() == false)
+            {
+                TempData["WarningMessage"] = "Don't go to places you are not allowed.";
+                return RedirectToAction("LogOut", "Home");
+            }
+            //UserDAL dalUser = new UserDAL();
+            UserDAL usrDoc = new UserDAL();
+            List<User> usrs = usrDoc.Users.ToList<User>();
+            ViewBag.UsersList = usrs;
+            //VMUsersDoctors vm = new VMUsersDoctors(dalDoc.Doctors.ToList<Doctor>(), dalUser.Users.ToList<User>());
+
+
+            return View();
+        }
