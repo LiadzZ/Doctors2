@@ -1,0 +1,45 @@
+[HttpPost]
+        
+public ActionResult AddReviewToDB()
+        {
+            string PID = Request.Form["PID"].ToString();
+            
+		string Review = Request.Form["Review"].ToString();
+            string DID = Session["DoctorLoggedIn"].ToString();
+            UserDAL usrDal = new UserDAL();
+            List<User> usrList = (from x in usrDal.Users where x.ID == PID select x).ToList<User>();
+            if (usrList.Count >=1)
+            {
+                UserReview ur = new UserReview();
+                ur.UserId = PID;
+                ur.Message = Review;
+                ur.From = DID;
+                UserReviewDAL urDAL = new UserReviewDAL();
+
+                try
+                {
+                    urDAL.reviews.Add(ur);
+                    urDAL.SaveChanges();
+                }
+                catch (Exception)
+                {
+                    //Failed insertion,already exist  
+
+                    urDAL.reviews.Remove(ur);
+                    //ViewBag.DuplicateUser = true;
+                    return RedirectToAction("AddReview", "Doctor");
+                }
+            }
+            else{
+                TempData["nonUser"] = "User not in the system";
+            }
+           
+            return RedirectToAction("AddReview", "Doctor");
+
+        }
+        public ActionResult ShowReview()
+        {
+            UserReviewDAL dal = new UserReviewDAL();
+            List<UserReview> objReview = dal.reviews.ToList<UserReview>();
+            return View(objReview);
+        }
