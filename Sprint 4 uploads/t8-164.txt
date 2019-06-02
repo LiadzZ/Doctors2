@@ -1,0 +1,8 @@
+public ActionResult AddReview()
+        {
+            UserReviewDAL urDAL = new UserReviewDAL();
+            List <UserReview> ur = urDAL.reviews.ToList<UserReview>();
+            ViewBag.Reviews = ur;
+            return View();
+
+        }
