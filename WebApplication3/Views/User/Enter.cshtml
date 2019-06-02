@@ -4,10 +4,9 @@
     ViewBag.Title = "Enter";
 }
 @*
-    enter new user details using jquerry.    
+    enter new user details using jquerry.
 
 *@
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
     .alert {
@@ -67,22 +66,26 @@
     }
 
 }
-        <script>
-            var close = document.getElementsByClassName("closebtn");
-            var i;
+<script>
+    var close = document.getElementsByClassName("closebtn");
+    var i;
 
-            for (i = 0; i < close.length; i++) {
-                close[i].onclick = function () {
-                    var div = this.parentElement;
-                    div.style.opacity = "0";
-                    setTimeout(function () { div.style.display = "none"; }, 600);
-                }
-            }
-        </script>
+    for (i = 0; i < close.length; i++) {
+        close[i].onclick = function () {
+            var div = this.parentElement;
+            div.style.opacity = "0";
+            setTimeout(function () { div.style.display = "none"; }, 600);
+        }
+    }
+</script>
 
 <body>
     <div>
-        @using (Html.BeginForm("Submit", "User", FormMethod.Post))
+        @using (Html.BeginForm("Submit", "User", FormMethod.Post, new
+        {
+            enctype = "multipart/form-data",
+            id = "Captcha"
+        }))
         {
 
             <table class="table">
@@ -96,19 +99,25 @@
                         @Html.TextBoxFor(m => m.LastName) @Html.ValidationMessageFor(x => x.LastName)
                     </td>
                     <td>
-                        <i>ID</i>
+                        <i>ID~~</i>
                         @Html.TextBoxFor(m => m.ID) @Html.ValidationMessageFor(x => x.ID)
                     </td>
                     <td>
                         <i>Phone</i>
                         @Html.TextBoxFor(m => m.Phone) @Html.ValidationMessageFor(x => x.Phone)
                     </td>
+                    
+                    
+                </tr>
+                <tr>
                     <td>
-                        <i>Age</i>
+                        
+                        <i>Age   ~~~~</i>
                         @Html.TextBoxFor(m => m.Age) @Html.ValidationMessageFor(x => x.Age)
                     </td>
+                    
                     <td>
-                        <i>Password</i>
+                        <i>Password~</i>
                         @Html.TextBoxFor(m => m.Password) @Html.ValidationMessageFor(x => x.Password)
                     </td>
                     <td>
@@ -120,25 +129,16 @@
                 <tr>
                     <td>
                         @Html.MathCaptcha()
-                        <p>@ViewBag.ErrorMessage</p>
+                        <p> @ViewBag.ErrorMessage </p>
                     </td>
                 </tr>
-                </table>
-
-
-
-
-
-
+            </table>
 
             <input id="Submit1" type="submit" value="Add User" />
+
         }
 
         @Html.ValidationSummary()
-
-
-
-
 
     </div>
 </body>

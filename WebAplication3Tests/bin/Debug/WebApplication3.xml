@@ -205,15 +205,39 @@
             </summary>
             <param name="modelBuilder"></param>
         </member>
+        <member name="M:WebApplication3.DAL.MessageDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>
+            Create a connection to queue DB.
+            </summary>
+            <param name="modelBuilder"></param>
+        </member>
         <member name="M:WebApplication3.DAL.QueueDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
             <summary>
             Create a connection to queue DB.
             </summary>
             <param name="modelBuilder"></param>
         </member>
+        <member name="M:WebApplication3.DAL.ReplyDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>
+            Create a connection to queue DB.
+            </summary>
+            <param name="modelBuilder"></param>
+        </member>
+        <member name="M:WebApplication3.DAL.TermsDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>
+            Create a connection to admin DB.
+            </summary>
+            <param name="modelBuilder"></param>
+        </member>
         <member name="M:WebApplication3.DAL.UserDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
             <summary>
             Create a connection to users DB.
+            </summary>
+            <param name="modelBuilder"></param>
+        </member>
+        <member name="M:WebApplication3.DAL.UserReviewDAL.OnModelCreating(System.Data.Entity.DbModelBuilder)">
+            <summary>
+            Create a connection to queue DB.
             </summary>
             <param name="modelBuilder"></param>
         </member>
