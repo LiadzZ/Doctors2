@@ -1,0 +1,6 @@
+public ActionResult Create()
+        {
+            MessageReplyViewModel vm = new MessageReplyViewModel();
+
+            return View(vm);
+        }
